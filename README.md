@@ -7,6 +7,7 @@ e realizamos o tratamento de dados através da ferramenta PowerBI.
 
 ##Dashboard Presentation
 
+![Screenshot](dashboardCovid.PNG)
 
 
 ## 🚀 Technologies Used 
