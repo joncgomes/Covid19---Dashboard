@@ -20,7 +20,7 @@ Realizei alguns tratamentos e medidas, tais como:
 • Qtde Novos Casos.
 <br><br>
 
-![Screenshot] (medidasCovid.png)
+![Screenshot] (medidasCovid.PNG)
 
 <br><br>
 ## 🚀 Technologies Used 
