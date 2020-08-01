@@ -14,10 +14,10 @@ e realizamos o tratamento de dados através da ferramenta PowerBI.
 
 Realizei alguns tratamentos e medidas, tais como:
 
-• Filtros de Datas;
-• Filtros por Região;
-• Qtde de Óbitos;
-• Qtde Novos Casos.
+• Filtros de Datas;<br>
+• Filtros por Região;<br>
+• Qtde de Óbitos;<br>
+• Qtde Novos Casos.<br>
 <br><br>
 
 ![Screenshot](medidasCovid.PNG)
