@@ -18,6 +18,9 @@ Realizei alguns tratamentos e medidas, tais como:
 • Filtros por Região;
 • Qtde de Óbitos;
 • Qtde Novos Casos.
+<br><br>
+
+![Screenshot] (medidasCovid.png)
 
 <br><br>
 ## 🚀 Technologies Used 
